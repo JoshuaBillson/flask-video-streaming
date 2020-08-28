@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Pipfile
+Pipfile
+Pipfile.lock
+
+# .idea
+.idea
